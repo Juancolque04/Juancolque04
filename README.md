@@ -24,6 +24,5 @@
 <a href="https://www.linkedin.com/in/juan-colque-6a6100222/"><img alt="LinkedIn"></a>
 <a href="jdiazcolque04@gmail.com"><img alt="Email"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juancolque04&label=Profile%20views&color=0e75b6&style=flat" alt="Juancolque04" /> </p>
